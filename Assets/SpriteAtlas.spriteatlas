@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: edefa88afd00f6c42a5e166031160921, type: 3}
+    - {fileID: 102900000, guid: ad6460d13231a79419b15b95906086fe, type: 3}
+    - {fileID: 102900000, guid: a335f2bb417005842bfec4dcf7eae0ab, type: 3}
+    totalSpriteSurfaceArea: 39936
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6e6959605c0ff1f45a09b6b1254070ae, type: 3}
+  - {fileID: 21300000, guid: 562035a0ef10e9644a9e39c2c8b87282, type: 3}
+  - {fileID: 21300000, guid: 509af1e179a1d7646a1adf6d75f9d7ee, type: 3}
+  - {fileID: 21300000, guid: 4dc28ee107c31d545a9077730cf09392, type: 3}
+  - {fileID: 21300000, guid: 7fb9b89323fbbee4e9641fc8dde66ba2, type: 3}
+  - {fileID: 21300000, guid: 753faae3eca708845ad4ef05c3ab9681, type: 3}
+  - {fileID: 21300000, guid: 2a54d104bf30be64d98b1ef205ac4e65, type: 3}
+  - {fileID: 21300000, guid: e091a4e48b3cd554a8fa077d33bcf284, type: 3}
+  - {fileID: 21300000, guid: dd8fdea59e04705479b21992ba2eceeb, type: 3}
+  - {fileID: 21300000, guid: 5ca514d61c60f2647919949007ab217f, type: 3}
+  - {fileID: 21300000, guid: 2b543a0780c2f6848959d0a6673451d1, type: 3}
+  - {fileID: 21300000, guid: 096b4457d271d8c40b2e696b1fecb88f, type: 3}
+  - {fileID: 21300000, guid: b0ec56873c067a146bb67d9e9adbcb2e, type: 3}
+  - {fileID: 21300000, guid: 10a878f751e392049b05ba522bef1123, type: 3}
+  - {fileID: 21300000, guid: 9d921f18dfd42d44aa4437d9c95a9c31, type: 3}
+  - {fileID: 21300000, guid: cef17038ddb73b340a06ec5541143bd4, type: 3}
+  - {fileID: 21300000, guid: b875e1683d96c6543b22264f269335cc, type: 3}
+  - {fileID: 21300000, guid: 517037694c833b64d94b84bfbd3fe494, type: 3}
+  - {fileID: 21300000, guid: 1179c8b9fadeaaf438f45d4268d55bc5, type: 3}
+  - {fileID: 21300000, guid: 129aa0c98ac2aff45bffa1bf7d132c12, type: 3}
+  - {fileID: 6027523223127536178, guid: dbd6f9caf9225b8409ac2ea788d57446, type: 3}
+  - {fileID: 6803873404882588446, guid: dbd6f9caf9225b8409ac2ea788d57446, type: 3}
+  - {fileID: -4025644675222363007, guid: dbd6f9caf9225b8409ac2ea788d57446, type: 3}
+  - {fileID: -1732287868377070896, guid: dbd6f9caf9225b8409ac2ea788d57446, type: 3}
+  - {fileID: -4789920915832460895, guid: dbd6f9caf9225b8409ac2ea788d57446, type: 3}
+  - {fileID: 3413917792567487076, guid: dbd6f9caf9225b8409ac2ea788d57446, type: 3}
+  - {fileID: 8774771162297685231, guid: dbd6f9caf9225b8409ac2ea788d57446, type: 3}
+  - {fileID: -8715313298101062840, guid: dbd6f9caf9225b8409ac2ea788d57446, type: 3}
+  - {fileID: 21300000, guid: f06f4deb3c4a1c1478f03e415e9f8cf6, type: 3}
+  - {fileID: 21300000, guid: 0ded5d2ce58bae14d9a8582a1280b83b, type: 3}
+  - {fileID: 21300000, guid: 3c2bad5c25caab941876faa288b26247, type: 3}
+  - {fileID: 21300000, guid: 33af9c8cc977383418d06e96181c5d7d, type: 3}
+  - {fileID: 21300000, guid: 028b2a9c41ea73c4096cd343f4f4a168, type: 3}
+  - {fileID: 21300000, guid: 49034e8e54b6e91478596a92d1803a2d, type: 3}
+  - {fileID: 21300000, guid: 71e7c8de86b5e62438c039985925d7d5, type: 3}
+  - {fileID: 21300000, guid: e1aba8fea5331e34f8e092525b1a2421, type: 3}
+  - {fileID: 21300000, guid: a2e8d47fd11e2914886b59e264491a82, type: 3}
+  - {fileID: 21300000, guid: 973d438fc172ac9459b412f9a15df3ed, type: 3}
+  - {fileID: 21300000, guid: e892609fddcc0d447b2153cf13b9fc26, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Drill_shaft_water_yellow
+  - Diamond
+  - WaterTank
+  - WaterPipe
+  - Gold
+  - WaterTank_80
+  - FloorSprite_2
+  - WaterTank_60
+  - WaterTank_Empty
+  - Conveyor_entrance
+  - Chest_Gold
+  - Water_pile
+  - Drill_shaft_water_orange
+  - FloorSprite_1
+  - Background
+  - Drill_shaft
+  - Water
+  - Dirt_pile
+  - FloorSprite_1 1
+  - Chest_Diamond
+  - Conveyor_1
+  - Conveyor_0
+  - Conveyor_3
+  - Conveyor_2
+  - Conveyor_5
+  - Conveyor_4
+  - Conveyor_7
+  - Conveyor_6
+  - WaterTank_20
+  - Player
+  - Control_Panel
+  - Drill_shaft_water_red
+  - WaterTank_40
+  - Diamond_pile
+  - Smelter
+  - Drill_head
+  - Gold_pile
+  - Dirt
+  - Drill_shaft_water
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
